@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidPdfMaker</string>
+    <string name="action_save">Save</string>
+</resources>
